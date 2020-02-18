@@ -231,7 +231,7 @@ def start():
 
 def explanation():
     print("Welkom bij deze mastermind applicatie")
-    print("Je kan straks de optie kiezen om codebreaker of codemaker te spelen.")
+    print("Je kan straks de optie kiezen om codebreaker of codemaker te spelen.") 
     print("Als codebreaker probeer je de kleurencombinatie van de computer te raden.")
     print("Als codemaker kies je een kleurencombinatie die de computer gaat raden dmv een algoritme.")
     print("Bij het invoeren van kleuren kan je ook alleen de eerst letter invoeren. Bv. 'w' i.p.v. 'wit'\n\n")
